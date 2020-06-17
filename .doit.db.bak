@@ -64,3 +64,4 @@
 'render_posts:cache\\pages\\cv.html', (78336, 339)
 'render_pages:output\\cv\\index.html', (78848, 2841)
 'copy_files:output\\CNAME', (81920, 232)
+'copy_files:output\\--CNAME', (82432, 236)
