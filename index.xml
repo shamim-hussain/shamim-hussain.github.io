@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Md Shamim Hussain on Shamim&#39;s Blog</title>
+    <link>/</link>
+    <description>Recent content in Md Shamim Hussain on Shamim&#39;s Blog</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language><atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Publications</title>
+      <link>/publications/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/publications/</guid>
+      <description>Links Google Scholar
+Semantic Scholar
+DBLP
+ORCID
+Papers Hussain, M.S., Zaki, M.J. and Subramanian, D., 2022, August. Global self-attention as a replacement for graph convolution. In Proceedings of the 28th ACM SIGKDD Conference on Knowledge Discovery and Data Mining (pp. 655-665).
+Hussain, M. and Haque, M.A., 2018. Swishnet: A fast convolutional neural network for speech, music and noise classification and segmentation. arXiv preprint arXiv:1812.00149.
+Hussain, M.S., Hasan, M.A., Bari, M.F. and Harun-Ur-Rashid, A.</description>
+    </item>
+    
+  </channel>
+</rss>
