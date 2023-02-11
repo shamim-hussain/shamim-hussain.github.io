@@ -1,4 +1,0 @@
-Sitemap: https://shamim-hussain.xyz/sitemapindex.xml
-
-User-Agent: *
-Host: shamim-hussain.xyz
