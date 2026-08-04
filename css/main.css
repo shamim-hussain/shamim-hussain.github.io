@@ -95,12 +95,6 @@ h3 { margin-bottom: .75rem; font-size: 1.33rem; }
 .maintainer-note { margin-top: auto; color: var(--ink) !important; font-size: .87rem !important; font-weight: 620; }
 .card-links, .publication-links { display: flex; flex-wrap: wrap; gap: .5rem 1.1rem; margin-top: auto; padding-top: 1rem; font-size: .88rem; font-weight: 750; }
 .card-links a, .publication-links a { text-decoration-thickness: 1px; }
-.scale-strip { display: grid; grid-template-columns: repeat(4, 1fr); gap: 1.2rem; margin-top: 1.2rem; padding: 1.35rem 1.65rem; border: 1px solid var(--border); border-radius: 5px; background: #fbfcfc; }
-.scale-strip > div { padding-right: 1.1rem; border-right: 1px solid var(--border); }
-.scale-strip > div:last-child { padding-right: 0; border-right: 0; }
-.scale-value, .scale-label { display: block; }
-.scale-value { color: var(--accent-dark); font-size: 1.07rem; font-weight: 780; letter-spacing: -.025em; }
-.scale-label { margin-top: .15rem; color: var(--muted); font-size: .78rem; line-height: 1.35; }
 .publications-heading { align-items: center; }
 .text-link { font-weight: 750; text-decoration-thickness: 1px; white-space: nowrap; }
 .selected-publications, .publication-list { margin: 0; padding: 0; list-style: none; }
@@ -149,9 +143,6 @@ h3 { margin-bottom: .75rem; font-size: 1.33rem; }
   .hero-visual { justify-self: start; max-width: min(420px, 90%); margin-top: 1rem; }
   .research-grid { grid-template-columns: 1fr 1fr; }
   .research-card-featured { grid-column: span 2; }
-  .scale-strip { grid-template-columns: 1fr 1fr; }
-  .scale-strip > div:nth-child(2) { border-right: 0; padding-right: 0; }
-  .scale-strip > div:nth-child(-n + 2) { padding-bottom: 1rem; border-bottom: 1px solid var(--border); }
 }
 
 @media (max-width: 650px) {
@@ -171,9 +162,6 @@ h3 { margin-bottom: .75rem; font-size: 1.33rem; }
   .research-card-featured { grid-column: auto; }
   .research-card { padding: 1.35rem; }
   .card-topline { margin-bottom: 1.7rem; }
-  .scale-strip { grid-template-columns: 1fr; padding: 1.25rem; }
-  .scale-strip > div, .scale-strip > div:nth-child(2) { padding: 0 0 1rem; border-right: 0; border-bottom: 1px solid var(--border); }
-  .scale-strip > div:last-child { padding-bottom: 0; border-bottom: 0; }
   .contact-card, .footer-inner { display: block; }
   .contact-card .button { margin-top: 1.5rem; }
   .footer-links { justify-content: start; margin-top: .8rem; }
