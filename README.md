@@ -1,6 +1,6 @@
 # Md Shamim Hussain — research website
 
-This repository serves the static personal site at [shamim-hussain.github.io](https://shamim-hussain.github.io).
+This repository serves the static personal site at [shamim-hussain.com](https://shamim-hussain.com).
 
 ## Local preview
 
@@ -29,4 +29,5 @@ python3 -m http.server 8000
 
 ## Deployment
 
-GitHub Pages publishes directly from the root of the `master` branch. Develop on a separate branch, review the changes, then merge and push to `master`. The site intentionally uses the default `https://shamim-hussain.github.io` address and has no custom domain.
+GitHub Pages publishes directly from the root of the `master` branch. Develop on a separate branch, review the changes, then merge and push to `master`. The site is published at `https://shamim-hussain.com` using a GitHub Pages custom domain.
+
