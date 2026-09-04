@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://shamim-hussain.github.io/sitemap.xml
+Sitemap: https://shamim-hussain.com/sitemap.xml
